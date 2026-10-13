@@ -1,6 +1,18 @@
 ---
 name: anime-vlog-workflow
+description: "Anime Vlog Workflow — Hinata Character"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: anime-vlog-workflow
 description: Generate Hinata anime vlogs with Jenny voice.
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # Anime Vlog Workflow — Hinata Character

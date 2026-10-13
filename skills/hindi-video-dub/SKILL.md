@@ -1,6 +1,18 @@
 ---
 name: hindi-video-dub
+description: "English → Hindi Video Dub"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: hindi-video-dub
 description: English to Hindi video dubbing. Gemini + edge-tts + ffmpeg.
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # English → Hindi Video Dub

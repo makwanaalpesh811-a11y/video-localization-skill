@@ -1,6 +1,18 @@
 ---
 name: video-localization
+description: "Video Localization (DUB) — English → Hindi on Termux"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: video-localization
 description: Localize/dub a video to Hindi on Termux.
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # Video Localization (DUB) — English → Hindi on Termux

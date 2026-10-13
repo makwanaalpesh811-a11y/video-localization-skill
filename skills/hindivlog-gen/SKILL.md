@@ -1,6 +1,18 @@
 ---
 name: hindivlog-gen
+description: "Hindi Vlog Generator (Termux)"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: hindivlog-gen
 description: "Hindi daily vlog pipeline: edge-tts + ffmpeg on Termux."
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # Hindi Vlog Generator (Termux)
